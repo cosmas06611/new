@@ -114,7 +114,6 @@ border-radius: 15px;
     color: aquamarine;
     width:300px;
     height:300px;
-    background-color: bisque;
     margin-left: 200px;
     font-weight:bolder;
     padding:20px 20px;
@@ -136,4 +135,55 @@ border-radius: 15px;
     width: 50px;
     height: 40px;
     justify-content: space-between;
+}
+.close{
+    background-color: aquamarine;
+    width: auto;
+    height:500px;
+}
+.close1 h5{
+    padding:30px 45px;
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: justify;
+    color: rgb(12, 123, 86);
+}
+.close1 > p{
+    padding: 30,150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    text-align: justify;
+    justify-content: space-between;
+    display: flex;
+  
+
+}
+.close p{
+    padding-bottom:50px;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    margin-left: 30px;
+    color: #747474;
+    padding-left:50px;
+    padding: top 20px;
+    font-size: 15px;
+
+}
+.close1 h5{
+    padding:0px 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-between;
+    margin:50px;
+    display: flex;
+}
+.close1 img{
+    width: 400px;
+   height:300px;
+    position: relative;
+    bottom:70px;
+    left:150px;
+top:-30px
+    
+   
 }
